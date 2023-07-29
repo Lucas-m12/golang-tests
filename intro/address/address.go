@@ -16,6 +16,6 @@ func AddressType(address string) string {
 	if isValidAddressType == true {
 		return firstWord
 	} else {
-		return "Ivalid address type"
+		return "Invalid address type"
 	}
 }
